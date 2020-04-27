@@ -1,4 +1,7 @@
-# Epidemiology
- Jupyter exercises using Covid-19 data.  
+# Geopackages
  
- Geopackages from: https://github.com/jgrocha/covid-pt
+ Geopackages concerning Covid-19 data in Portugal. 
+ 
+ Data reported by the DGS.
+
+ Downloaded from: https://github.com/jgrocha/covid-pt
