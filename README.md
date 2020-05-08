@@ -3,9 +3,7 @@
  
  Repository created to document the progress made in scope of the "Systems of Geographical Information" class lectured by [Professor Jorge Rocha](https://github.com/jgrocha).
 
- # Dúvidas
+ # Repositórios com dados COVID-19 SPAIN
 
-- que dados são necessários para fazer algo parecido com o que temos feito para portugal mas para outro país? são necessários dados de latitude e longitude?
-- encontrei 2 repositórios com dados relativos a Espanha mas não sei se servem.
 	- https://github.com/victorvicpal/COVID19_es
 	- https://github.com/datadista/datasets/tree/master/COVID%2019
