@@ -10,7 +10,11 @@ O Norte aparece com muitos mais casos do que as outras regiões. Será que assim
 ## Resolução
 
 Dados:
-- dados de covid do dia 19-05-2020 retirados do site da [DGS]()
+- dados de covid do dia 19-05-2020 retirados do site da [DGS](https://covid19.min-saude.pt/)
+
+![DGS Casos Covid-19 19-05-2020](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Exercises/images/dgs_19-05-2020.PNG)
+
+
 - [dados geográficos do INE]https://inspire.ine.pt/SU/atom/gml/SU_StatisticalUnits_NUTSII2013_PTCont_EPSG3763.zip)
 - [dados estatísticos do INE](https://github.com/jgrocha/covid-pt/blob/master/Jupyter/dados/BGRI11_PT.csv.zip)
 
@@ -18,7 +22,7 @@ Para a resolução deste exercício foi necessário a construção de um ficheir
 
 De forma a calcular os casos por milhão de pessoas que está no ficheiro .csv acima mencionado pegaram-se nos casos confirmados e dividiu-se pelo número de residentes, multiplicando o resultado por 10^6.
 
-1. Carregmento dos [dados geográficos do INE]https://inspire.ine.pt/SU/atom/gml/SU_StatisticalUnits_NUTSII2013_PTCont_EPSG3763.zip)
+1. Carregmento dos [dados geográficos do INE](https://inspire.ine.pt/SU/atom/gml/SU_StatisticalUnits_NUTSII2013_PTCont_EPSG3763.zip)
 
 2. Carregamento dos [dados estatísticos do INE](https://github.com/jgrocha/covid-pt/blob/master/Jupyter/dados/BGRI11_PT.csv.zip)
 
@@ -37,6 +41,3 @@ De forma a calcular os casos por milhão de pessoas que está no ficheiro .csv a
 
 Verifica-se que no mapa criado apesar deste representar o número de casos por milhão as relações entre regiões permanecem inalteradas. 
 
-
-
- está muito idêntico ao da DGS, logo, o facto de o norte ter mais casos que, por exemplo, Lisboa não está relacionada com a quantidade de população. De facto, mesmo tendo em consideração a densidade populacional o Norte continua a ser a região com mais casos.
