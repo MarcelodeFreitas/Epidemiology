@@ -41,5 +41,5 @@ De forma a calcular os casos por milhão de pessoas que está no ficheiro .csv a
 ![Casos confirmados por milhão de pessoas](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Exercises/images/ex_3.PNG)
 
 
-Verifica-se que no mapa criado apesar deste representar o número de casos por milhão as relações entre regiões permanecem inalteradas. 
+Verifica-se que no mapa criado apesar deste representar o número de casos por milhão as relações entre regiões permanecem inalteradas. De facto, apesar deste mapa depender da densidade populacional o Norte continua a ser a região com mais casos. 
 
