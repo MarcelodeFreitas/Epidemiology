@@ -38,6 +38,8 @@ De forma a calcular os casos por milhão de pessoas que está no ficheiro .csv a
 
 6. União da tabela com os dados geográficos através do nome das regiões.
 
+![Casos confirmados por milhão de pessoas](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Exercises/images/ex_3.PNG)
+
 
 Verifica-se que no mapa criado apesar deste representar o número de casos por milhão as relações entre regiões permanecem inalteradas. 
 
