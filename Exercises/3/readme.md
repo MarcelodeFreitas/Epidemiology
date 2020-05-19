@@ -15,7 +15,7 @@ Dados:
 ![DGS Casos Covid-19 19-05-2020](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Exercises/images/dgs_19-05-2020.PNG)
 
 
-- [dados geográficos do INE]https://inspire.ine.pt/SU/atom/gml/SU_StatisticalUnits_NUTSII2013_PTCont_EPSG3763.zip)
+- [dados geográficos do INE](https://inspire.ine.pt/SU/atom/gml/SU_StatisticalUnits_NUTSII2013_PTCont_EPSG3763.zip)
 - [dados estatísticos do INE](https://github.com/jgrocha/covid-pt/blob/master/Jupyter/dados/BGRI11_PT.csv.zip)
 
 Para a resolução deste exercício foi necessário a construção de um ficheiro .csv com a informação do número de casos em relação à quantidade de população relativa às regiões: Norte, Centro (PT), área metropolitana de Lisboa, Alentejo e Algarve.
