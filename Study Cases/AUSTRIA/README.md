@@ -116,3 +116,48 @@
 ### 🗂️ [Statistics (more graphs) (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_statistics.ipynb)
 
 
+In order to fit the labels instead of the datetime objects it is only displayed number of entries.
+
+An example of the entries taken at 01-06-2020:
+
+![date_time](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/date_entries.png)
+
+#### LINE PLOTS
+
+![time_cases](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/time_cases.png)
+
+![time_deaths](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/time_deaths.png)
+
+![time_recovered](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/time_recovered.png)
+
+![time_tests](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/time_tests.png)
+
+There seems to be some missing hospitalization data in the beginning.
+
+![time_hospitalized](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/time_hospitalized.png)
+
+![time_intensive_care](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/time_intensive_care.png)
+
+#### LINE PLOTS versus
+
+![time_cases_recovered_deaths](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/time_cases_recovered_deaths.png)
+
+![time_hospitalized_intensive_care_deaths](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/time_hospitalized_intensive_care_deaths.png)
+
+
+#### LINE PLOTS evolutions by state
+
+Since the data entries are not uniform for every state, the entries are counted and the biiggest possible number is used. Example: [202, 203, 204, 206, 207, 208, 209, 209, 209] - -> 202 , in this cased the data for the graphs is restricted to [0:202].
+
+There is also some abnormality in the cases confirmed by state.
+
+![time_cases_state](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/time_cases_state.png)
+
+
+![time_deaths_state](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/time_deaths_state.png)
+
+
+
+### 🗂️ [Predictions (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_predictions.ipynb)
+
+
