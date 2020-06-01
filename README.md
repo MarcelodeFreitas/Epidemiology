@@ -9,10 +9,26 @@
 
  - 🗂️ [USA](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Study%20Cases/USA)
  	- training with example provided by [Professor Jorge Rocha](https://github.com/jgrocha).
- - 🗂️ [AUSTRIA](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Study%20Cases/USA)
+ - 🗂️ [AUSTRIA](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Study%20Cases/AUSTRIA)
  	- FINAL PROJECT
  	- Analysis of COVID-19 data in Austria
  	- Marcelo de Freitas Marreiros A82436
+ 	- contains the following jupyter notebooks:
+ 		- Graphs
+ 			- 🗂️ [Graphs (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria-GRAPHS.ipynb)
+ 			- 🗂️ [Statistics (more graphs) (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_statistics.ipynb)
+ 		- Predictions
+ 			- 🗂️ [Predictions (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_predictions.ipynb)
+ 		- Maps
+ 			- 🗂️ [Confirmed Cases (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_cases.ipynb)
+ 			- 🗂️ [Deaths (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_deaths.ipynb)
+ 			- 🗂️ [Hospitalized (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_hospitalized.ipynb)
+ 			- 🗂️ [Recovered (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_recovered.ipynb)
+ 			- 🗂️ [Intensive Care (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_intensive_care.ipynb)
+ 		- GIF
+ 			- 🗂️ [Gif (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_gif.ipynb)
+
+
 
  ## [Connecting to Database](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Connecting%20to%20Database)
 
@@ -43,7 +59,7 @@
  ## [PyQGIS](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/PyQGIS)
 
  - introductory exercises to PyQGIS
- - cotains the following jupyter notebooks:
+ - contains the following jupyter notebooks:
  	- 🗂️ [Exploring pandas library (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/PyQGIS/exploring_pandas_library.ipynb)
  	- 🗂️ [Geopackage layers to database (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/PyQGIS/geopackage_layers_to_database.ipynb)
  		- gets the most recent geopackage with covid-19 data in Portugal
