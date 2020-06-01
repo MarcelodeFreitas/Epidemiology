@@ -29,3 +29,24 @@
  - manipulating data in csv format using python and pandas library
  
 
+ ## [PyQGIS](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/PyQGIS)
+
+ - introductory exercises to PyQGIS
+ - cotains the following jupyter notebooks:
+ 	- 🗂️ [Exploring pandas library (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/PyQGIS/exploring_pandas_library.ipynb)
+
+
+  ## [QGIS Projects](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Manipulating%20data)
+
+ - manipulating data in csv format using python and pandas library
+
+
+
+  ## [Study Cases](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Manipulating%20data)
+
+ - manipulating data in csv format using python and pandas library
+
+
+   ## [tmp](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Manipulating%20data)
+
+ - directory with temporary files created by some of the notebooks in this repository.
