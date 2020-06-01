@@ -78,6 +78,41 @@
 
 ![intensive_care](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/intensive_care.png)
 
+#### BAR PLOTS versus
+
+![cases_vs_deaths](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/cases_vs_deaths.png)
+
+![cases_vs_recovered](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/cases_vs_recovered.png)
+
+![hospitalized_vs_intensive_care](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/hospitalized_vs_intensive_care.png)
+
+#### BAR PLOTS versus 2.0
+
+![hospitalized_vs_intensive_care_2](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/hospitalized_vs_intensive_care_2.png)
+
+![cases_vs_deaths_2](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/cases_vs_deaths_2.png)
+
+![cases_vs_recovered_2](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/cases_vs_recovered_2.png)
+
+![tests_vs_deaths_2](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/tests_vs_deaths_2.png)
+
+#### PIE PLOTS 
+
+![pie_deaths](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/pie_deaths.png)
+
+![pie_cases](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/pie_cases.png)
+
+![pie_recovered](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/pie_recovered.png)
+
+![pie_tests](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/pie_tests.png)
+
+![pie_hospitalized](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/pie_hospitalized.png)
+
+![pie_intensive_care](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/pie_intensive_care.png)
+
+
+
+
 ### 🗂️ [Statistics (more graphs) (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_statistics.ipynb)
 
 
