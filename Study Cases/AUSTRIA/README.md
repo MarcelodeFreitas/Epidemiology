@@ -27,14 +27,14 @@
 
 ## MAPS
 
-### 🗂️ [Confirmed Cases (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_cases.ipynb)
-
-![Confirmed cases map](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/map_cases.png)
-
-
 ### 🗂️ [Deaths (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_deaths.ipynb)
 
 ![Deaths map](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/map_deaths.png)
+
+
+### 🗂️ [Confirmed Cases (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_cases.ipynb)
+
+![Confirmed cases map](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/map_cases.png)
 
 
 ### 🗂️ [Recovered (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_recovered.ipynb)
@@ -57,5 +57,17 @@
 ### 🗂️ [Intensive Care (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_intensive_care.ipynb)
 
 ![Intensive Care map](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/map_intensive_care.png)
+
+
+
+## GRAPHS and STATISTICS
+
+### 🗂️ [Graphs (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria-GRAPHS.ipynb)
+
+#### test
+
+![Intensive Care map](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/map_intensive_care.png)
+
+### 🗂️ [Statistics (more graphs) (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_statistics.ipynb)
 
 
