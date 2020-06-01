@@ -11,7 +11,6 @@
  	- training with example provided by [Professor Jorge Rocha](https://github.com/jgrocha).
  - 🗂️ [AUSTRIA](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Study%20Cases/AUSTRIA)
  	- FINAL PROJECT
- 	- Please click [here](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Study%20Cases/AUSTRIA) a readme with more detailed info about this Study Case.
  	- Analysis of COVID-19 data in Austria
  	- Marcelo de Freitas Marreiros A82436
  	- contains the following jupyter notebooks:
