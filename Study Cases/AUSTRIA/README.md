@@ -25,5 +25,37 @@
  	- all images result from the Jupyter Notebooks in this directory
 
 
+## MAPS
+
+### 🗂️ [Confirmed Cases (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_cases.ipynb)
+
+![Confirmed cases map](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/map_cases.png)
+
+
+### 🗂️ [Deaths (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_deaths.ipynb)
+
+![Deaths map](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/map_deaths.png)
+
+
+### 🗂️ [Recovered (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_recovered.ipynb)
+
+![Recovered map](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/map_recovered.png)
+
+
+
+### 🗂️ [Tests (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_tests.ipynb)
+
+![Tests map](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/map_tests.png)
+
+
+
+### 🗂️ [Hospitalized (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_hospitalized.ipynb)
+
+![Hospitalized map](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/map_hospitalized.png)
+
+
+### 🗂️ [Intensive Care (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_intensive_care.ipynb)
+
+![Intensive Care map](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/map_intensive_care.png)
 
 

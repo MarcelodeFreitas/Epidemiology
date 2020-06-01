@@ -23,6 +23,7 @@
  		- Maps
  			- 🗂️ [Confirmed Cases (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_cases.ipynb)
  			- 🗂️ [Deaths (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_deaths.ipynb)
+ 			- 🗂️ [Tests (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_tests.ipynb)
  			- 🗂️ [Hospitalized (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_hospitalized.ipynb)
  			- 🗂️ [Recovered (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_recovered.ipynb)
  			- 🗂️ [Intensive Care (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_intensive_care.ipynb)
