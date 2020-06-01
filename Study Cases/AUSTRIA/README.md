@@ -145,7 +145,7 @@ There seems to be some missing hospitalization data in the beginning.
 ![time_hospitalized_intensive_care_deaths](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/time_hospitalized_intensive_care_deaths.png)
 
 
-#### LINE PLOTS evolutions by state
+#### LINE PLOTS evolution by state
 
 Since the data entries are not uniform for every state, the entries are counted and the biiggest possible number is used. Example: [202, 203, 204, 206, 207, 208, 209, 209, 209] - -> 202 , in this cased the data for the graphs is restricted to [0:202].
 
@@ -161,3 +161,14 @@ There is also some abnormality in the cases confirmed by state.
 ### 🗂️ [Predictions (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_predictions.ipynb)
 
 
+![time_unique_deaths_cases](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/time_unique_deaths_cases.png)
+
+![prediction_numberofcases](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/prediction_numberofcases.png)
+
+![prediction_numberofdeaths](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/prediction_numberofdeaths.png)
+
+#### Parametric Fitting
+
+![parametric_cases](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/parametric_cases.png)
+
+![parametric_deaths](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/parametric_deaths.png)
