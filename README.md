@@ -1,5 +1,7 @@
 # Epidemiology
  Jupyter exercises using Covid-19 data, QGIS, PyQGIS and SQL.  
+
+ Author: Marcelo de Freitas Marreiros A82436
  
  Repository created to document the progress made in scope of the "Systems of Geographical Information" class lectured by [Professor Jorge Rocha](https://github.com/jgrocha).
 
@@ -34,17 +36,37 @@
  - introductory exercises to PyQGIS
  - cotains the following jupyter notebooks:
  	- 🗂️ [Exploring pandas library (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/PyQGIS/exploring_pandas_library.ipynb)
+ 	- 🗂️ [Geopackage layers to database (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/PyQGIS/geopackage_layers_to_database.ipynb)
+ 		- gets the most recent geopackage with covid-19 data in Portugal
+ 		- stores the layers contained in the geopackage in a Postgres database
+ 	- 🗂️ [QGIS first example (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/PyQGIS/qgis_first_example.ipynb)
+ 		- first attempt at using PyQGIS
+ 		- connecting to QGIS
+ 		- loading geopackage
+ 		- printing map of Portugal with Covid-19 data
+ 	- 🗂️ [QGIS project in Jupyter (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/PyQGIS/qgis_project_in_jupyter.ipynb)
+ 		- using a QGIS project in a Jupyter Notebook
+ 	- 🗂️ [QGIS using latest geopackage (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/PyQGIS/qgis_using_latest_geopackage.ipynb)
+ 		- similar to 🗂️ [QGIS first example (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/PyQGIS/qgis_first_example.ipynb)
+ 		- uses latest geopackage
 
 
-  ## [QGIS Projects](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Manipulating%20data)
+  ## [QGIS Projects](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Study%20Cases)
 
- - manipulating data in csv format using python and pandas library
+ - projects using only the QGIS interface 
+ - no PyQGIS
 
 
 
   ## [Study Cases](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Manipulating%20data)
 
- - manipulating data in csv format using python and pandas library
+ - 🗂️ [USA](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Study%20Cases/USA)
+ 	- training with example provided by [Professor Jorge Rocha](https://github.com/jgrocha).
+ - 🗂️ [AUSTRIA](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Study%20Cases/USA)
+ 	- FINAL PROJECT
+ 	- Analysis of COVID-19 data in Austria
+ 	- Marcelo de Freitas Marreiros A82436
+
 
 
    ## [tmp](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Manipulating%20data)
