@@ -5,6 +5,15 @@
  
  Repository created to document the progress made in scope of the "Systems of Geographical Information" class lectured by [Professor Jorge Rocha](https://github.com/jgrocha).
 
+  ## [Study Cases](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Manipulating%20data)
+
+ - 🗂️ [USA](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Study%20Cases/USA)
+ 	- training with example provided by [Professor Jorge Rocha](https://github.com/jgrocha).
+ - 🗂️ [AUSTRIA](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Study%20Cases/USA)
+ 	- FINAL PROJECT
+ 	- Analysis of COVID-19 data in Austria
+ 	- Marcelo de Freitas Marreiros A82436
+
  ## [Connecting to Database](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Connecting%20to%20Database)
 
  - connecting to Postgres data base in python
@@ -55,18 +64,6 @@
 
  - projects using only the QGIS interface 
  - no PyQGIS
-
-
-
-  ## [Study Cases](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Manipulating%20data)
-
- - 🗂️ [USA](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Study%20Cases/USA)
- 	- training with example provided by [Professor Jorge Rocha](https://github.com/jgrocha).
- - 🗂️ [AUSTRIA](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Study%20Cases/USA)
- 	- FINAL PROJECT
- 	- Analysis of COVID-19 data in Austria
- 	- Marcelo de Freitas Marreiros A82436
-
 
 
    ## [tmp](https://github.com/MarcelodeFreitas/Epidemiology/tree/master/Manipulating%20data)
