@@ -25,6 +25,26 @@
  	- all images result from the Jupyter Notebooks in this directory
 
 
+## PREDICTIONS
+
+### 🗂️ [Predictions (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_predictions.ipynb)
+
+
+![time_unique_deaths_cases](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/time_unique_deaths_cases.png)
+
+![prediction_numberofcases](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/prediction_numberofcases.png)
+
+![prediction_numberofdeaths](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/prediction_numberofdeaths.png)
+
+#### Parametric Fitting
+
+![parametric_cases](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/parametric_cases.png)
+
+![parametric_deaths](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/parametric_deaths.png)
+
+
+
+
 ## MAPS
 
 ### 🗂️ [Deaths (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_map_deaths.ipynb)
@@ -158,17 +178,3 @@ There is also some abnormality in the cases confirmed by state.
 
 
 
-### 🗂️ [Predictions (.ipynb)](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/COVID-19_Austria_predictions.ipynb)
-
-
-![time_unique_deaths_cases](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/time_unique_deaths_cases.png)
-
-![prediction_numberofcases](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/prediction_numberofcases.png)
-
-![prediction_numberofdeaths](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/prediction_numberofdeaths.png)
-
-#### Parametric Fitting
-
-![parametric_cases](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/parametric_cases.png)
-
-![parametric_deaths](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/parametric_deaths.png)
