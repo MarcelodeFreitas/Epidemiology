@@ -32,9 +32,6 @@
 
 ![time_unique_deaths_cases](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/time_unique_deaths_cases.png)
 
-![prediction_numberofcases](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/prediction_numberofcases.png)
-
-![prediction_numberofdeaths](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/prediction_numberofdeaths.png)
 
 #### Parametric Fitting
 
