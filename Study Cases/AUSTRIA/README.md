@@ -95,15 +95,8 @@
 
 ![intensive_care](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/intensive_care.png)
 
-#### BAR PLOTS versus
 
-![cases_vs_deaths](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/cases_vs_deaths.png)
-
-![cases_vs_recovered](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/cases_vs_recovered.png)
-
-![hospitalized_vs_intensive_care](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/hospitalized_vs_intensive_care.png)
-
-#### BAR PLOTS versus 2.0
+#### BAR PLOTS 
 
 ![hospitalized_vs_intensive_care_2](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/hospitalized_vs_intensive_care_2.png)
 
@@ -126,7 +119,6 @@
 ![pie_hospitalized](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/pie_hospitalized.png)
 
 ![pie_intensive_care](https://github.com/MarcelodeFreitas/Epidemiology/blob/master/Study%20Cases/AUSTRIA/images/pie_intensive_care.png)
-
 
 
 
